@@ -25,5 +25,4 @@ Passionate about transforming data into actionable business insights, I bring a 
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" title="Python"/>
   <img src="https://img.icons8.com/ios-filled/50/007ACC/sql.png" alt="SQL" title="SQL"/>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" title="Power BI"/>
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/000000/external-pandas-a-data-analysis-library-written-for-the-python-programming-language-soft-fill-soft-fill-juicy-fish.png" alt="Pandas" title="Pandas"/>
-</p>
+  </p>
