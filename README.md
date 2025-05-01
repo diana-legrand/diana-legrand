@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🙋‍♀️ About Me
+
+Passionate about transforming data into actionable business insights, I bring a diverse background in data analysis across multiple industries, with a strong focus on e-commerce and online advertising. My experience includes developing dynamic Power BI dashboards, conducting end-to-end data analysis using Python, and uncovering patterns that drive strategic decision-making. I thrive at the intersection of analytics, business understanding, and clear communication.
